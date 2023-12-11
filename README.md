@@ -8,7 +8,7 @@ In this project you'll find an Node.js project that gets you up and running with
 
 ## Preview
 
-[GitHub-Pages](#)
+[GitHub-Pages](https://zappar-xr.github.io/three-gaussian-splat-example/)
 
 ## Running the Project
 
