@@ -4,7 +4,9 @@
 
 ## Parcel Bootstrap Project
 
-In this project you'll find an Node.js project that gets you up and running with Gaussian Splats for Three.
+In this project you'll find an Node.js project that gets you up and running with Gaussian Splats for Three. 
+
+For more information, visit https://github.com/zappar-xr/three-gaussian-splat
 
 ## Preview
 
